@@ -31,7 +31,7 @@ I used Claude to help with:
 - Automation tasks: scripted file moves, created symlink, and cleaned up repository tracking for large folders
 
 ## Screenshots
-![App screenshot]()
+![App screenshot](./utils/screenshots/pokemon-type-analyzer.png)
 
 ## Future Improvements
 - Add caching for type requests to reduce API calls and improve responsiveness
